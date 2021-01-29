@@ -1,7 +1,10 @@
 # UltimateMouse
 UltimateMouse lets you control the whole computer with your mouse alone
+
 become a power user with your mouse to the point you wont need your keyboard
+
 needs a mouse with forward & backward buttons
+
 now also works with microsoft mice
 
 ## Table of contents
